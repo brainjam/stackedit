@@ -22,10 +22,12 @@
 
 [Ray Li](http://theory.stanford.edu/~rayyli/teaching.html)
 
+$$e=mc^2$$
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTUyNTU3NV19
+eyJoaXN0b3J5IjpbLTk0MjI2OTMyNSwtMzkxNTI1NTc1XX0=
 -->
